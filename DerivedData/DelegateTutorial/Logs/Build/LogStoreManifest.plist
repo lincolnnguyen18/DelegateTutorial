@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>5F1AE547-5E37-4022-97A0-2187FF4548E0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5F1AE547-5E37-4022-97A0-2187FF4548E0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DelegateTutorial project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DelegateTutorial</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DelegateTutorial</string>
+			<key>timeStartedRecording</key>
+			<real>634703604.56325901</real>
+			<key>timeStoppedRecording</key>
+			<real>634703619.85113299</real>
+			<key>title</key>
+			<string>Build DelegateTutorial</string>
+			<key>uniqueIdentifier</key>
+			<string>5F1AE547-5E37-4022-97A0-2187FF4548E0</string>
+		</dict>
+		<key>66A6DE7C-0B12-4583-BC9B-F936FE154B9D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>66A6DE7C-0B12-4583-BC9B-F936FE154B9D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DelegateTutorial project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DelegateTutorial</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DelegateTutorial</string>
+			<key>timeStartedRecording</key>
+			<real>634706601.50017798</real>
+			<key>timeStoppedRecording</key>
+			<real>634706609.01551104</real>
+			<key>title</key>
+			<string>Build DelegateTutorial</string>
+			<key>uniqueIdentifier</key>
+			<string>66A6DE7C-0B12-4583-BC9B-F936FE154B9D</string>
+		</dict>
+		<key>789BC702-308D-4794-B51C-E714BC194E0C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>789BC702-308D-4794-B51C-E714BC194E0C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DelegateTutorial project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DelegateTutorial</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DelegateTutorial</string>
+			<key>timeStartedRecording</key>
+			<real>634703394.22000301</real>
+			<key>timeStoppedRecording</key>
+			<real>634703394.26942098</real>
+			<key>title</key>
+			<string>Build DelegateTutorial</string>
+			<key>uniqueIdentifier</key>
+			<string>789BC702-308D-4794-B51C-E714BC194E0C</string>
+		</dict>
+		<key>B20370FA-7B49-419A-B04D-C2E9D4CA3D62</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B20370FA-7B49-419A-B04D-C2E9D4CA3D62.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DelegateTutorial project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DelegateTutorial</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DelegateTutorial</string>
+			<key>timeStartedRecording</key>
+			<real>634703566.77426898</real>
+			<key>timeStoppedRecording</key>
+			<real>634703566.82935202</real>
+			<key>title</key>
+			<string>Build DelegateTutorial</string>
+			<key>uniqueIdentifier</key>
+			<string>B20370FA-7B49-419A-B04D-C2E9D4CA3D62</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

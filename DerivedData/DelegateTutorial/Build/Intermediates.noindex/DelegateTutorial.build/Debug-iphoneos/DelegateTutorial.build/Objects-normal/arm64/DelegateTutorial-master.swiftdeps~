@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "cdd9b5692de390a41b466b7b3aab0e2b"
+build_time: [1613010808, 539200000]
+inputs:
+  "/Users/lincolnnguyen/Desktop/ScrollViewTest/DelegateTutorial/DelegateTutorial/ClassAVC.swift": [1613010576, 137439104]
+  "/Users/lincolnnguyen/Desktop/ScrollViewTest/DelegateTutorial/DelegateTutorial/ClassBVC.swift": [1613010576, 137697400]
+  "/Users/lincolnnguyen/Desktop/ScrollViewTest/DelegateTutorial/DelegateTutorial/AppDelegate.swift": [1613010576, 136380744]

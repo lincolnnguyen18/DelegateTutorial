@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>554498DE-B0BB-4DA4-849E-474B8A91571E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>554498DE-B0BB-4DA4-849E-474B8A91571E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DelegateTutorial project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DelegateTutorial</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DelegateTutorial</string>
+			<key>timeStartedRecording</key>
+			<real>634703619.85650504</real>
+			<key>timeStoppedRecording</key>
+			<real>634704508.59154201</real>
+			<key>title</key>
+			<string>Run DelegateTutorial</string>
+			<key>uniqueIdentifier</key>
+			<string>554498DE-B0BB-4DA4-849E-474B8A91571E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

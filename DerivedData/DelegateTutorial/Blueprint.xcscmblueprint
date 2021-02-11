@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B106D4A3FEBA9C69E57F348A9796D8C77CE0EE13",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B106D4A3FEBA9C69E57F348A9796D8C77CE0EE13" : 0,
+    "2526A46357CC2C6DEF03887F9C5F2C0F82DEF87D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0A520B68-FA13-4A0D-A52C-004D24612314",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B106D4A3FEBA9C69E57F348A9796D8C77CE0EE13" : "DelegateTutorial\/",
+    "2526A46357CC2C6DEF03887F9C5F2C0F82DEF87D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DelegateTutorial",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DelegateTutorial.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lincolnnguyen18\/ScrollViewTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2526A46357CC2C6DEF03887F9C5F2C0F82DEF87D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jamesrochabrun\/DelegateTutorial.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B106D4A3FEBA9C69E57F348A9796D8C77CE0EE13"
+    }
+  ]
+}
