@@ -6,6 +6,40 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>2C6DE169-21B5-4C5B-ABEC-5C4FF366FEE9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2C6DE169-21B5-4C5B-ABEC-5C4FF366FEE9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DelegateTutorial project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DelegateTutorial</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DelegateTutorial</string>
+			<key>timeStartedRecording</key>
+			<real>634706609.02262294</real>
+			<key>timeStoppedRecording</key>
+			<real>634707074.74561501</real>
+			<key>title</key>
+			<string>Run DelegateTutorial</string>
+			<key>uniqueIdentifier</key>
+			<string>2C6DE169-21B5-4C5B-ABEC-5C4FF366FEE9</string>
+		</dict>
 		<key>554498DE-B0BB-4DA4-849E-474B8A91571E</key>
 		<dict>
 			<key>className</key>
